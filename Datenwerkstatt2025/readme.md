@@ -6,5 +6,6 @@ Die Veröffentlichung erfolgt hier via JS-Library https://modelviewer.dev/ als G
 - Photographische Erfassung des Objekts
 - Nutzung des PG-Tools der Wahl (auf MacOS z. B. [PhotoCatch](https://github.com/eospi/Object-Capture-UI))
 - Transformation nach .glb und ggf. Nachbearbeitung in [Blender](https://www.blender.org/)
-- Testing auf https://modelviewer.dev/editor/, Transformation nach .gITF via "Export Scene"
-- Integration des Tests/Beispiels mit Doku im html-Template
+- Testing auf https://modelviewer.dev/editor/, Export via "Export Scene"
+- Kompression z. B. mit https://githubdragonfly.github.io/viewers/templates/GM%20Viewer.html
+- Integration des Tests/Beispiels mit Doku im html-Template, dafür werden die Dateien mit den Endungen .glb und .webp (für eine Voransicht) benötigt
