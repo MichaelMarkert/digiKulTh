@@ -1,4 +1,10 @@
 # Photogrammetrietesting
 ## Idee
-Leicht zugängliche Tools sollen daraufhin getestet werden, ob sie sich für einen geradlinigen und störungsarmen Workflow zur Online-Weitergabe bzw. -Veröffentlichung von 3D-Digitalisaten eignen. 
-Die Veröffentlichung erfolgt via JS-Library https://modelviewer.dev/ auf einer GitHub-Page.
+Leicht zugängliche Tools sollen daraufhin getestet werden, ob sie sich für einen geradlinigen und störungsarmen Workflow zur Online-Weitergabe bzw. -Veröffentlichung von 3D-Digitalisaten eignen. Dieses Testing soll dokumentiert werden, d. h. detailliert beschrieben, wie und womit fotografiert wurde, welche Software wann und wie zum Einsatz kam usw. – gern auch mit einen Video/Screencast.
+Die Veröffentlichung erfolgt hier via JS-Library https://modelviewer.dev/ als GitHub-Page.
+## Workflow
+- Photographische Erfassung des Objekts
+- Nutzung des PG-Tools der Wahl (auf MacOS z. B. [PhotoCatch](https://github.com/eospi/Object-Capture-UI))
+- Transformation nach .glb und ggf. Nachbearbeitung in [Blender](https://www.blender.org/)
+- Testing auf https://modelviewer.dev/editor/, Transformation nach .gITF via "Export Scene"
+- Integration des Tests/Beispiels mit Doku im html-Template
