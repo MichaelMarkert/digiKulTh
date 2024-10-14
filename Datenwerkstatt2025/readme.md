@@ -8,5 +8,5 @@ Die Veröffentlichung erfolgt hier via JS-Library https://modelviewer.dev/ als G
 - Transformation nach .glb und ggf. Nachbearbeitung in [Blender](https://www.blender.org/)
 - Testing auf https://modelviewer.dev/editor/, Export via "Export Scene"
 - Kompression z. B. mit https://githubdragonfly.github.io/viewers/templates/GM%20Viewer.html
-- Integration des Tests/Beispiels mit Doku im html-Template showcase.html, dafür werden die Dateien mit den Endungen .glb und .webp (für eine Voransicht) benötigt
-- Aufrufen des Showcase unter https://michaelmarkert.github.io/digiKulTh/Datenwerkstatt2025/showcase.html
+- Integration des Tests/Beispiels mit Doku im html-Template showcase.html, dafür werden die Dateien mit den Endungen .glb (das 3D-Modell) und .webp (für eine Voransicht) benötigt
+- Aufrufen des Showcase unter https://michaelmarkert.github.io/digiKulTh/Datenwerkstatt2025/showcase.html (bitte etwas warten)
