@@ -116,11 +116,11 @@ Fragen zum Thema Urheberrecht werden zentral, sobald es zur "Vervielfältigung" 
 
 #### Rechte am eigenen Bild
 
-Sind auf einem digitalisierten Fotonegativ oder Abzug Personen identifizierbar (vgl. Kap. 2)?
+- [ ] Sind auf einem digitalisierten Fotonegativ oder Abzug Personen identifizierbar (vgl. Kap. 2)?
 
 #### Kennzeichen verfassungswidriger Organisationen
 
-Zeigen zu digitalisierende Objekte bzw. Digitalisate Symbole oder Kennzeichen insbesondere von NS- Organisationen (vgl. Kap. 3)?
+- [ ] Zeigen zu digitalisierende Objekte bzw. Digitalisate Symbole oder Kennzeichen insbesondere von NS- Organisationen (vgl. Kap. 3)?
 
 ## Anhang: Verwendete und weiterführende Literatur
 
