@@ -1,5 +1,14 @@
 # Checkliste Objektfotografie
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Vorbereitung Arbeitsplatz und Beleuchtung](#vorbereitung-arbeitsplatz-und-beleuchtung)
+- [Einstellung Kamera und Objektiv](#einstellung-kamera-und-objektiv)
+- [Vorbereitung des Fotografierens](#vorbereitung-des-fotografierens)
+- [Fotos anfertigen](#fotos-anfertigen)
+
+<!-- TOC end -->
+
 ## Vorbereitung Arbeitsplatz und Beleuchtung
 
 - [ ] Hintergrundsystem als Hohlkehle aufstellen
@@ -19,8 +28,6 @@
 - [ ] Hoch- oder Querformat einheitlich je Objekt
 
 - [ ] Objekt zentriert und formatfüllend platzieren, frontal oder 45° nach links gedreht 
-
-- [ ] Drehung um gedachte Achse im Uhrzeigersinn, in gleichen Winkeln
 
 ## Einstellung Kamera und Objektiv
 
@@ -46,7 +53,7 @@
 
 - [ ] Mindestanforderungen Objektiv: Brennweite >= 50 mm, idealerweise ein Macro-Objektiv (z. B. 90 mm
 
-## Vorbereitung Fotografieren
+## Vorbereitung des Fotografierens
 
 - [ ] wesentlich für die Belichtung sind Helligkeit und Blende beim Blitzen sowie bei Dauerlicht zusatzlich die Belichtungszeit 
 
@@ -61,6 +68,8 @@
 - [ ] Alle relevanten Ansichten, Detailaufnahmen nach Bedarf
 
 - [ ] Erstes Bild von einem Objekt mit Farbkarte aufnehmen
+    
+- [ ] Drehung um gedachte Achse im Uhrzeigersinn, in gleichen Winkeln, meist 45°
 
 - [ ] Bei jedem Bild korrekte Positionierung des Objekts prüfen
 
