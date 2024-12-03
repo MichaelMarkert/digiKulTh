@@ -94,7 +94,7 @@ Von zunehmender Relevanz im Sammlungskontext ist die **Strafbarkeit der Verwendu
 
 Fragen zum Thema Urheberrecht werden zentral, sobald es zur "Vervielfältigung" oder "Verbreitung" von Inhalten kommt. Das Urheberrecht spricht von "Vervielfältigung", wenn ein Digitalisat (Foto, 3D- Rekonstruktion) erstellt wird und von "Verbreitung", wenn dieses außerhalb der Institution (Ausstellungskatalog, Webportal) genutzt werden soll. Je nach konkretem Einzelfall kann das Thema sehr komplex werden und umfangreiche Recherchen etwa zu den Lebensdaten von Künstler:innen erfordern.
 
-### Rechte am digitalisierten Objekt
+**Rechte am digitalisierten Objekt**
 
 - [ ] Handelt es sich um ein Werk, also ist es in einem individuellen, schöpferischen Akt entstanden (vgl. Kap. 1.1)?
 
@@ -104,7 +104,7 @@ Fragen zum Thema Urheberrecht werden zentral, sobald es zur "Vervielfältigung" 
 
 - [ ] Greift eine Schranke, etwa die Möglichkeit der Digitalisierung zu (internen) Dokumentationszwecken (vgl. Kap. 1.6)?
 
-### Rechte am Digitalisat
+**Rechte am Digitalisat**
 
 - [ ] Handelt es sich um ein inszeniertes Foto eines dreidimensionalen Objektes, Raumes usw. oder um eine einfache Reproduktion eines Gemäldes, eine Grafik, eines Fotonegatives (vgl. Handreichung 1.3)?
 
@@ -112,13 +112,13 @@ Fragen zum Thema Urheberrecht werden zentral, sobald es zur "Vervielfältigung" 
 
 - [ ] Wenn ein urheberrechtlicher Schutz besteht, liegt eine Lizenz für die Nutzung vor (vgl. Kap. 1.4, 1.5)?
 
-### Weitere relevante Rechtsbereiche
+**Weitere relevante Rechtsbereiche**
 
-#### Rechte am eigenen Bild
+**Rechte am eigenen Bild**
 
 - [ ] Sind auf einem digitalisierten Fotonegativ oder Abzug Personen identifizierbar (vgl. Kap. 2)?
 
-#### Kennzeichen verfassungswidriger Organisationen
+**Kennzeichen verfassungswidriger Organisationen**
 
 - [ ] Zeigen zu digitalisierende Objekte bzw. Digitalisate Symbole oder Kennzeichen insbesondere von NS- Organisationen (vgl. Kap. 3)?
 
