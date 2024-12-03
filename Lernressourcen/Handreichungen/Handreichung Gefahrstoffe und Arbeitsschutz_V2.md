@@ -6,15 +6,14 @@ Anne Hiltscher & Michael Markert (Bearb.)
 
 - [Gefahrstoffe](#gefahrstoffe)
 - [Arbeitsschutz](#arbeitsschutz)
-   * [Maßnahmen der Prävention](#maßnahmen-der-prävention)
-   * [Praktische Arbeitsschutzmaßnahmen](#praktische-arbeitsschutzmaßnahmen)
-      + [Personenbezogene Schutzmaßnahmen](#personenbezogene-schutzmaßnahmen)
-         - [Handschuhe](#handschuhe)
-         - [Weitere Ausstattung](#weitere-ausstattung)
-         - [Essen und Trinken](#essen-und-trinken)
-         - [Hautpflege](#hautpflege)
-     + [Organisatorische Schutzmaßnahmen](#organisatorische-schutzmaßnahmen)
-     + [Technische Schutzmaßnahmen](#technische-schutzmaßnahmen)
+  * [Maßnahmen der Prävention](#maßnahmen-der-prävention)
+  * [Personenbezogene Schutzmaßnahmen](#personenbezogene-schutzmaßnahmen)
+      + [Handschuhe](#handschuhe)
+      + [Weitere Ausstattung](#weitere-ausstattung)
+      + [Essen und Trinken](#essen-und-trinken)
+      + [Hautpflege](#hautpflege)
+  * [Organisatorische Schutzmaßnahmen](#organisatorische-schutzmaßnahmen)
+  * [Technische Schutzmaßnahmen](#technische-schutzmaßnahmen)
 - [Checkliste Gefahrstoffe und Arbeitsschutz](#checkliste-gefahrstoffe-und-arbeitsschutz)
 - [Verwendete und weiterführende Literatur](#verwendete-und-weiterführende-literatur)
 
@@ -40,7 +39,7 @@ Diese Zugangswege müssen für schädliche Stoffe durch Arbeitsschutzmaßnahmen 
 
 ## Arbeitsschutz
 
-Der Arbeitsschutz allgemein umfasst alle Maßnahmen, die den Arbeitnehmer vor Arbeitsunfällen oder Gesundheitsgefährdungen bei der Arbeit schützen sollen, u. a. Lärmschutz, Arbeitshygiene, und eine ergonomische Arbeitsplatzgestaltung. Beim Arbeitsschutz in Sammlungen geht es mit Blick auf Gefahrstoffe einerseits um den Gesundheitsschutz der Mitarbeitenden, es sollen anderseits aber auch die Objekte vor Schaden bei der Arbeit mit oder an ihnen bewahrt werden.
+Der Arbeitsschutz allgemein umfasst alle Maßnahmen, die den Arbeitnehmer vor Arbeitsunfällen oder Gesundheitsgefährdungen bei der Arbeit schützen sollen, u. a. Lärmschutz, Arbeitshygiene, und eine ergonomische Arbeitsplatzgestaltung. Beim Arbeitsschutz in Sammlungen geht es mit Blick auf Gefahrstoffe einerseits um den Gesundheitsschutz der Mitarbeitenden, es sollen anderseits aber auch die Objekte vor Schaden bei der Arbeit mit oder an ihnen bewahrt werden. Dabei orientieren sich praktische Arbeitsschutzmaßnahmen am TOP(Technische, Organisatorische und Personenbezogene Schutzmaßnahmen)-Prinzip. Es wird meist in umgekehrter Reihenfolge als POT-Prinzip angewandt, da personenbezogene Schutzmaßnahmen einfacher und schneller durchzuführen sind als technische und organisatorische, die Abstimmungen, Analysen und Recherchen erfordern. 
 
 Grundsätzlich spielen die Dauer und die Art der Tätigkeit mit belasteten Objekten, die Intensität der Belastung und die räumlichen Gegebenheiten eine große Rolle für die Ableitung von Arbeitsschutzmaßnahmen. Für das Beproben potentiell belasteter Objekte, Gefährdungsbeurteilungen, Betriebsanweisungen, die Unterweisung des Personals und die Bereitstellung geeigneter Schutzausrüstung ist der Arbeitgeber zuständig. Leider wird die Auseinandersetzung mit Gefahrstoffen in Objekten und Depots auch aufgrund der Komplexität des Themas in einigen Institutionen vernachlässigt und es gibt zwar generelle Arbeitsschutzmaßnahmen, aber keine Gefährdungsbeurteilungen für Sammlungsbestände.
 
@@ -53,19 +52,15 @@ Gefahrstoffen in der Sammlung enthält? Können Kustod:innen, Sammlungsverantwor
 
 Zweitens sollte geprüft werden, welche Schutzmaßnamen getroffen wurden, um Risiken einzudämmen. Die Objekte, die gefährliche Substanzen enthalten, sollten besonders gekennzeichnet werden, speziell verpackt und/ oder ggf. an speziellen Orten gelagert werden. Auch verdächtige Objekte und Materialien sind Belastete sorgfältig zu kennzeichnen und zu dokumentieren. 
 
-Zuletzt ist zu prüfen, ob aus einer eventuell vorhandenen Gefährdungsbeurteilung spezifische Schutzmaßnahmen und Schutzausrüstung (z. B. Maske mit bestimmtem Filtertyp) abgeleitet wurden (s. auch nächster Abschnitt). Manche Depoträume etwa dürfen nur in einem 
+Zuletzt ist zu prüfen, ob aus einer eventuell vorhandenen Gefährdungsbeurteilung spezifische Schutzmaßnahmen und Schutzausrüstung (z. B. Maske mit bestimmtem Filtertyp) abgeleitet wurden (s. auch nächster Abschnitt). 
 
-### Praktische Arbeitsschutzmaßnahmen
+### Personenbezogene Schutzmaßnahmen
 
-Praktische Arbeitsschutzmaßnahmen orientieren sich am TOP(Technische, Organisatorische und Personenbezogene Schutzmaßnahmen)-Prinzip. Es wird meist in umgekehrter Reihenfolge als POT-Prinzip angewandt, da personenbezogene Schutzmaßnahmen meist einfacher und schneller durchzuführen sind als technische. 
-
-#### Personenbezogene Schutzmaßnahmen
-
-##### Handschuhe
+#### Handschuhe
 
 Bei der Arbeit mit Sammlungsobjekten sollten im Regelfall puderfreie Nitrilhandschuhe verwendet werden, sofern seitens der Sammlungsbetreuung nichts anderes angeordnet wird. Baumwollhandschuhe sind als Grundausstattung nicht empfehlenswert, da das Tastempfinden soweit eingeschränkt ist, dass Objekte beschädigt werden können. Zudem verhindern sie nicht die Übertragung von Fett und Säuren der Haut auf das Objekt und schützen die Haut nicht vor Chemikalien auf dem Objekt. Für das Handling von Chemikalien gibt es besondere Handschuhe. In Ausnahmefällen – wenn besonders feines Tastempfinden nötig ist und es keine Bedenken einer Gesundheitsgefährdung oder Objektschädigung gibt – kann ohne Handschuhe mit sauberen, trockenen Händen gearbeitet werden. 
 
-##### Weitere Ausstattung
+#### Weitere Ausstattung
 
 Besonders beim Umgang mit Textilien oder anderen stark staubbelasteten Objekten sollten Partikelfiltermasken wie FFP2-Masken getragen werden, da der eingelagerte Staub zu Lungenreizungen/-schädigungen führen kann. Bei bekannter oder vermuteter Belastung mit (inaktivem) Schimmel und anderen Feinstäuben sind FFP3-Masken zu verwenden. 
 
@@ -73,19 +68,19 @@ Generell ist festes Schuhwerk zu tragen, um den Körper vor Gefahrenstoffen am B
 
 Es ist darauf zu achten, dass Schutzkleidung entsprechend den Herstellerangaben getragen wird. So gibt es sowohl bei Handschuhen als auch Atemschutzmasken eine Begrenzung der maximalen Tragedauer, bevor die Ausstattung auszutauschen ist.
 
-##### Essen und Trinken
+#### Essen und Trinken
 
 Essen und Trinken dürfen nicht am direkten Tätigkeitsort stehen oder eingenommen werden, idealerweise an einem anderen, eigens als Aufenthaltsraum ausgewiesenen Ort.
 
-##### Hautpflege
+#### Hautpflege
 
 Vor und nach der Arbeit sowie beim Verlassen des Tätigkeitsorts müssen die Hände gründlich mit Seife gereinigt und anschließend getrocknet werden. Bei häufig nötigem Händewaschen oder häufigem Tragen von Nitrilhandschuhen sollten die Hände am Ende des Arbeitstages mit Hautcreme gepflegt werden. Evtl. existiert ein Hautschutzplan und Handcreme wird vom Arbeitgeber bereitgestellt.
 
-#### Organisatorische Schutzmaßnahmen
+### Organisatorische Schutzmaßnahmen
 
 Alle Wege und Abläufe von Mitarbeitenden und belasteten Objekten in die oder aus den Sammlungsräumlichkeiten müssen geprüft und ggf. neu geregelt werden. Hierzu zählen etwa Zugangsbeschränkungen für alle Räumlichkeiten, in denen Objekte gelagert und ausgestellt werden oder worin mit ihnen gearbeitet wird, sowie der Objekttransport (Staubschutz), wenn andere Räume durchquert werden.
 
-#### Technische Schutzmaßnahmen
+### Technische Schutzmaßnahmen
 
 Oft handelt es sich um Infrastrukturmaßnahmen, die von der (Abteilungs-)Leitung verantwortet werden und hier der Vollständigkeit halber aufgeführt werden. So sollten Waschräume in der Nähe der Arbeitsräume zur Verfügung stehen, je nach Art der Tätigkeit auch ausgestattet mit Duschen. Gegen belastete Stäube helfen spezielle Staubsauger mit HEPA-Filtern, beim Arbeiten an Objekten (Reinigung, Restaurierung) schützt man sich vor Stäuben, Dämpfen oder Gasen mit Absauganlagen wie einer sogenannten reinen Werkbank, wo mittels Unterdruck schädliche Substanzen von den Nutzer:innen wegbewegt werden. Luftreiniger und Anlagen der Raumlufttechnik (RLT) sowie ein angepasster Reinigungsturnus können Schadstoffe in der Luft unter Umständen dauerhaft reduzieren. Dabei sollten vor allem Reinigungsarbeiten mit Flüssigkeiten keinesfalls ohne vorherige Freigabe und Unterweisung durch Expert:innen vorgenommen werden. 
 
