@@ -81,4 +81,4 @@
 
 - [ ] RAW-Bilder in TIFF-Bilder (unkomprimiert, Farbraum Adobe RGB(1998), 16 Bit) umwandeln
 
-- [ ] Dateiname aus Objektinventarnummer und laufender Nummer bilden, z. B. ```003456_01, ...```
+- [ ] Dateiname aus Objektinventarnummer und laufender Nummer bilden, z. B. ```003456#01```
