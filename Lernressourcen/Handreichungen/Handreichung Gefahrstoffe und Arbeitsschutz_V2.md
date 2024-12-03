@@ -104,7 +104,7 @@ Jeder Kontakt mit einem Objekt bedeutet ein potenzielles Risiko für die Person,
 - [ ] Welche Schutzmaßnahmen müssen zusätzlich getroffen werden, wenn eine Schadstoffbelastung vorliegt?
   Welche Schutzkleidung genau bei welchem Gefahrstoff getragen werden muss, kann nur auf Grundlage entsprechender Analysen und einer Gefährdungsbeurteilung entschieden werden (vgl. Kap. 2.2-2.4)
 
-> ⚠️ Falls bei Objekten Verdachtsmomente für schädliche Substanzen oder Schädlingsbefall (Fraßspuren, Schimmel) vorliegen, konsultieren Sie vor jeglicher Bearbeitung – und dies meint auch Verpackung und Transport – eine:n Expert:in und halten Sie die Schutzmaßnahmen ein!
+> ⚠️ Falls bei Objekten Verdachtsmomente für schädliche Substanzen oder Schädlingsbefall (Fraßspuren, Schimmel) vorliegen, konsultieren Sie vor jeglicher Bearbeitung – und dies meint auch Verpackung und Transport – eine:n Expert:in und halten Sie die vereinbarten Schutzmaßnahmen ein!
 
 ## Verwendete und weiterführende Literatur
 
