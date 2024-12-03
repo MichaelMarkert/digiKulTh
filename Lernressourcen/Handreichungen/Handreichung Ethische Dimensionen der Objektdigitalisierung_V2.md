@@ -2,12 +2,26 @@
 
 Michael Markert
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Einleitung](#einleitung)
+- [Die Fair-Prinzipien](#die-fair-prinzipien)
+- [Die CARE-Prinzipien](#die-care-prinzipien)
+- [Be FAIR and CARE: Der Minimaldatensatz der Deutschen Digitalen Bibliothek als Anwendungsbeispiel](#be-fair-and-care-der-minimaldatensatz-der-deutschen-digitalen-bibliothek-als-anwendungsbeispiel)
+- [Jenseits von FAIR und CARE](#jenseits-von-fair-und-care)
+- [Anhang: Checkliste](#anhang-checkliste)
+- [Anhang: Verwendete und weiterführende Literatur](#anhang-verwendete-und-weiterführende-literatur)
+
+<!-- TOC end -->
+
+<!-- TOC --><a name="einleitung"></a>
 ## Einleitung
 
 Die Digitalisierung von Kulturgütern und insbesondere die Veröffentlichung entsprechender Digitalisate und der zugehörigen Objektmetadaten hat neben der rechtlichen auch eine ethische Komponente. Einerseits gibt es zahlreiche Aspekte, die juristisch nicht reguliert sind, etwa die Form einer Datenveröffentlichung, die Zugangsmöglichkeiten dazu sowie die indirekt darin codierten Machtverhältnisse zwischen einer bereitstellenden Institution und den Nutzenden in Wissenschaft und Gesellschaft. Andererseits muss nicht alles, was juristisch abgesichert ist, auch gerecht und angemessen sein. Es gibt zahlreiche Fälle, in denen etwas aus guten Gründen nicht veröffentlicht wird, obgleich es möglich wäre, insbesondere im Bereich ‚sensibler Objekte‘ wie menschlicher Überreste oder bei Artefakten aus kolonialen Kontexten.
 
 Das Feld der Sammlungsethik ist seit einigen Jahren in starker Bewegung und bisher sind im Zuge dessen zwei Sets ethischer Prinzipien für die Arbeit mit Sammlungsdaten entstanden, die domänenübergreifend anerkannt sind und genutzt werden. Es handelt sich dabei um FAIR aus dem Bereich des Forschungsdatenmanagements und CARE aus der Auseinandersetzung indigener Communities mit westlicher Museumsarbeit.
 
+<!-- TOC --><a name="die-fair-prinzipien"></a>
 ## Die Fair-Prinzipien
 
 Die [FAIR-Prinzipien](https://www.go-fair.org/fair-principles/) wurden 2016 vorgestellt und schnell in verschiedenen Domänen zur Qualitätssicherung von Datenpublikationen adaptiert, obgleich sie ursprünglich nur den Zugang zu wissenschaftlichen Forschungsdaten auf eine neue Grundlage stellen sollten. FAIR steht für „**F**indable, **A**ccessible, **I**nteroperable, and **R**eusable“, also auffindbar, zugänglich, austauschbar und nachnutzbar. Es handelt sich um eine auf Open Science ausgerichtete Datenethik, die eine bestimmte technische Implementierung nahelegt.
@@ -16,6 +30,7 @@ So gelten Daten u. a. als **findable**, wenn sie eine eindeutige, dauerhafte und
 
 **Interoperable** und damit maschinenlesbar werden sie, weil sie nach allgemein anerkannten Prinzipien strukturiert sind. Im Museumsbereich kommt dafür meist das sogenannte [Lightweight Information Describing Objects (LIDO)](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/)-Format zum Einsatz. Zudem werden kontrollierte Vokabulare wie die [Gemeinsame Normdatei (GND)](https://gnd.network/Webs/gnd/DE/Home/home_node.html), [Geonames](https://www.geonames.org/) oder der [Arts & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) verwendet, die die eindeutige Identifikation von Personen, Unternehmen, Orten oder Sachbegriffen erlauben und zugleich Verknüpfungen zu anderen Vokabularen herstellen und damit teilweise Disziplinengrenzen und Sprachbarierren überwinden. **Reusable** schließlich sind die Daten durch eine genaue und differenzierte Beschreibung nach fachüblichen Standards, Angaben über die Urheberschaft sowie die vergebene Lizenz für die weitere Nutzung – im Falle von Metadaten meist CC0 (vgl. Handreichung Rechtliche Aspekte der Objektdigitalisierung).
 
+<!-- TOC --><a name="die-care-prinzipien"></a>
 ## Die CARE-Prinzipien
 
 Die [CARE-Prinzipien](https://www.gida-global.org/care) (**C**ollective Benefit, **A**uthority to Control, **R**esponsibility, **E**thics) entstanden 2020 aus der kritischen Auseinandersetzung mit der Open-Data-Bewegung und den FAIR- Prinzipien unter Beteiligung indigener Communities. Entsprechend setzen sie am anderen, nicht- technischen Ende an und bestimmen die Rolle der Menschen in der Arbeit mit (Meta-)Daten näher. Ihr Fokus sind die Möglichkeiten einer gleichberechtigten und zukunftsorientierten Datennutzung gemeinsam mit indigenen Communities unter Berücksichtigung der kolonialen Machtstrukturen und historischen Ungerechtigkeiten, welche die Bestände europäischer und nordamerikanischer Museen und Universitätssammlungen prägen.
@@ -28,6 +43,7 @@ Die CARE-Prinzipien sind aufgrund ihres Entstehungszusammenhanges vor allem in e
 
 In ihrer Abstraktheit ließen sich die CARE-Prinzipien eigentlich problemlos auf andere, nicht- indigene Communities und damit jede Zusammenarbeit mit nicht-musealen Akteur:innen anwenden. Hier besteht allerdings die Gefahr, den berechtigten Schwerpunkt auf ursprünglich indigene Objekte und die damit verbundenen, spezifischen ethischen Herausforderungen auszuhebeln (vgl. [Imeri 2022](https://www.o-bib.de/bib/article/view/5815)).
 
+<!-- TOC --><a name="be-fair-and-care-der-minimaldatensatz-der-deutschen-digitalen-bibliothek-als-anwendungsbeispiel"></a>
 ## Be FAIR and CARE: Der Minimaldatensatz der Deutschen Digitalen Bibliothek als Anwendungsbeispiel
 
 Im Jahre 2024 wurde unter Federführung der Deutschen Digitalen Bibliothek (DDB) eine
@@ -47,6 +63,7 @@ Auch die CARE-Prinzipien sollen an verschiedenen Stellen des Datenschemas Anwend
 
 Der Minimaldatensatz zeigt, was eine umfassende Implementierung datenethischer Standards bedeuten kann. Er macht entsprechend relevante Sammlungsdaten dabei nicht nur für indigene Communities zugänglicher, sondern durch die umfangreiche, sehr detaillierte Anreicherung generell auch für Forschung, Lehre und Vermittlung wertvoller. Gleichzeitig sind die damit verbundenen Anforderungen – insbesondere die nötigen Recherchen, Kontaktanbahnungen und Gespräche mit Stakeholder:innen – für viele und vor allem kleinere Institutionen ausgesprochen hoch. Dies kann dazu führen, dass diese Institutionen ihre Daten gar nicht erst veröffentlichen – und damit wichtige und nötige Diskussionen auch nicht stattfinden.
 
+<!-- TOC --><a name="jenseits-von-fair-und-care"></a>
 ## Jenseits von FAIR und CARE
 
 Die im Minimaldatensatz der DDB als Normvokabular empfohlene und für Linked Open Data im deutschsprachigen Raum zentrale GND ist nicht unproblematisch. Die aktuellen Diskurse fokussieren insbesondere die in den westlichen Wissensordnungen kodierten Machtungleichgewichte und Stereotype. Insbesondere werden sprachliche Diskriminierungen marginalisierter Gruppen thematisiert, die sich in vermeintlich sachlichen (Fremd-)Bezeichnungen von geographischen Regionen oder Ethnien niederschlagen und so in Bibliothekskatalogen und Webportalen reproduziert werden (vgl. etwa [Mähr & Schnegg 2024](https://maehr.github.io/diskriminierungsfreie-metadaten/)).
@@ -61,6 +78,7 @@ Vorhandene und weithin anerkannte ethische Empfehlungen konzentrieren sich auf b
 
 Unabhängig von der Verfügbarkeit entsprechender Guidelines, Empfehlungen und Fallstudien gilt für ethische Fragen mehr noch als für rechtliche, dass im und für den Einzelfall entschieden werden muss. Jede Sammlung hat eine eigene Geschichte, eigene Akteur:innen und eigene Sensibilitäten, was ein umfangreiches und oft nur für einzelne Objekte und nicht ganze Bestände verfügbares Wissen über Provenienzen und Kontexte erfordert. Dieses Wissen ist jedoch nicht selten aufgrund einer mangelhaften Quellenlage oder fehlender Forschungsressourcen nicht zugänglich und es bleibt nur ein Verdacht. Gerade unter solchen Umständen lassen sich allgemeine Regeln auf die individuelle, historisch gewachsene Sammlungssituation nicht ohne Reibungen übertragen und es müssen eigene Handlungsanweisungen entwickelt werden, die den spezifischen Unschärfen, Grenzfällen und Wissenlücken gerecht werden.
 
+<!-- TOC --><a name="anhang-checkliste"></a>
 ## Anhang: Checkliste
 
 Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Hafen beim Umgang mit Sammlungen und Sammlungsdaten zurückziehen zu wollen. Nur leider liefert es erstens nicht auf alles eine Antwort und fällt zweitens keine Entscheidungen. Zwar gibt es mit dem Urheberrecht anwendbare Regeln, aber welches Lizenzmodell man wählt und ob überhaupt Daten veröffentlicht werden sollen, hängt davon ab, was man für gut und gerecht hält – und welche Ressourcen für eine Umsetzung zur Verfügung stehen.
@@ -91,6 +109,7 @@ Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Haf
 
 - [ ] Was ist mit den verfügbaren Ressourcen möglich?
 
+<!-- TOC --><a name="anhang-verwendete-und-weiterführende-literatur"></a>
 ## Anhang: Verwendete und weiterführende Literatur
 
 Bundesärztekammer (2003). Mitteilungen: Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen, *Deutsches Ärzteblatt*, 100 (28–29), S. A 1960-A1965.
