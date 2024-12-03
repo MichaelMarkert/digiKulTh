@@ -2,6 +2,24 @@
 
 Anne Hiltscher & Michael Markert (Bearb.)
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Gefahrstoffe](#gefahrstoffe)
+- [Arbeitsschutz](#arbeitsschutz)
+   * [Maßnahmen der Prävention](#maßnahmen-der-prävention)
+   * [Praktische Arbeitsschutzmaßnahmen](#praktische-arbeitsschutzmaßnahmen)
+      + [Personenbezogene Schutzmaßnahmen](#personenbezogene-schutzmaßnahmen)
+         - [Handschuhe](#handschuhe)
+         - [Weitere Ausstattung](#weitere-ausstattung)
+         - [Essen und Trinken](#essen-und-trinken)
+         - [Hautpflege](#hautpflege)
+   * [Organisatorische Schutzmaßnahmen](#organisatorische-schutzmaßnahmen)
+   * [Technische Schutzmaßnahmen](#technische-schutzmaßnahmen)
+- [Checkliste Gefahrstoffe und Arbeitsschutz](#checkliste-gefahrstoffe-und-arbeitsschutz)
+- [Verwendete und weiterführende Literatur](#verwendete-und-weiterführende-literatur)
+
+<!-- TOC end -->
+
 ## Gefahrstoffe
 
 Gefahrstoffe sind alle Substanzen, die Menschen und der Umwelt schaden (z. B. reizende, giftige, krebserregende, radioaktive Stoffe) oder die gefährliche physikalische Eigenschaften (z. B. explosive, entzündliche oder oxidierende Stoffe) besitzen. Schadstoffe sind NICHT an einem starken Geruch zu erkennen! Risiken bestehen für alle Personen, die sich in der Nähe von entsprechend belasteten Sammlungsobjekten oder Depoträumen aufhalten, insbesondere für Mitarbeitende (Sammlungs- und Digitalisierungsangestellte und Mitarbeitende in Reinigungsfirmen, Sicherheitspersonal), Sammlungs- und Ausstellungsbesucher:innen oder Forschende, die sich oft in Depots aufhalten. Gefahrstoffe können unmittelbare, kurzzeitige oder dauerhafte Schädigungen des Körpers und des Nervensystems verursachen oder Spätfolgen haben, die sich erst nach vielen Jahren zeigen. 
