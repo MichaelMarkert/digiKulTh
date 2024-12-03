@@ -41,7 +41,7 @@
 
 - [ ] Weißabgleich durchführen,
 
-- [ ] bei Blitzeinsatz :flash: wählen
+- [ ] bei Blitzeinsatz 5600 Kelvin oder ```Blitzsymbol``` wählen
 
 - [ ] Manuellen Fokus wählen
 
