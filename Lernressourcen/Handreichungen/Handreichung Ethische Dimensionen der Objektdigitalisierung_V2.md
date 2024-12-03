@@ -65,13 +65,13 @@ Unabhängig von der Verfügbarkeit entsprechender Guidelines, Empfehlungen und F
 
 Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Hafen beim Umgang mit Sammlungen und Sammlungsdaten zurückziehen zu wollen. Nur leider liefert es erstens nicht auf alles eine Antwort und fällt zweitens keine Entscheidungen. Zwar gibt es mit dem Urheberrecht anwendbare Regeln, aber welches Lizenzmodell man wählt und ob überhaupt Daten veröffentlicht werden sollen, hängt davon ab, was man für gut und gerecht hält – und welche Ressourcen für eine Umsetzung zur Verfügung stehen.
 
-### FAIRe Publikation (vgl. Kap. 2)
+**FAIRe Publikation** (vgl. Kap. 2)
 
 - [ ] Wie wichtig ist der Zugang zu Metadaten und Digitalisaten für eine breite Nutzer:innengruppe?
 
 - [ ] Wie sind die FAIR-Prinzipien implementiert und besteht eventuell Handlungsbedarf?
 
-### CARE-Bedarfe (vgl. Kap. 3)
+**CARE-Bedarfe** (vgl. Kap. 3)
 
 - [ ] Haben meine Sammlungsdaten einen Bezug zu indigenen Gemeinschaften?
 
@@ -81,7 +81,7 @@ Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Haf
 
 - [ ] Welche Möglichkeiten existieren, um im Digitalen indigene Interessen und Bedürfnisse abzubilden, etwa über TK- oder BC-Label?
 
-### Weitere Ethische Aspekte (vgl. Kap. 5)
+**Weitere Ethische Aspekte** (vgl. Kap. 5)
 
 - [ ] Liegen relevante (z. B. sprachliche) Diskriminierungsformen, Machtgefälle, Ausschlüsse oder sensible Objekte wie menschliche Überreste oder Raubgut vor?
 
