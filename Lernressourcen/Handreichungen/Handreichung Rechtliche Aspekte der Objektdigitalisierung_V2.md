@@ -7,7 +7,7 @@ Michael Markert
 - [Urheberrechtliche Aspekte](#urheberrechtliche-aspekte)
    * [Was ist ein Werk?](#was-ist-ein-werk)
    * [Welche Rechte haben Urheber:innen?](#welche-rechte-haben-urheberinnen)
-   * [Recht an einem Digitalisat](#recht-an-einem-digitalisat)
+   * [Rechte an einem Digitalisat](#recht-an-einem-digitalisat)
    * [Rechteübertragung und Lizenzformen](#rechteübertragung-und-lizenzformen)
    * [Urheberrecht in Arbeitsverhältnissen, Praktika u. ä.](#urheberrecht-in-arbeitsverhältnissen-praktika-u-ä)
    * [Relevante Schranken des Urheberrechts](#relevante-schranken-des-urheberrechts)
@@ -36,7 +36,7 @@ Die **Schutzfrist für ein Werk endet in Deutschland 70 Jahre nach dem Tod** der
 
 **Kein Urheberrechtsanspruch ergibt sich aus dem Eigentum** an einem Objekt oder Werk. Die Digitalisierung und Veröffentlichung einer Leihgabe ist also unproblematisch, solange keine anderen Ansprüche (etwa der Urheber:in) bestehen oder der Leihvertrag dies nicht explizit ausschließt.
 
-### Recht an einem Digitalisat
+### Rechte an einem Digitalisat
 
 Nicht nur das Werk selbst, sondern auch das Digitalisat davon steht – wie auch ein Text darüber – als neu entstandenes Werk unter urheberrechtlichem Schutz. Das Ausmaß des Schutzes richtet sich danach, ob es sich beim Digitalisat um ein **Lichtbildwerk**, **Lichtbild** oder **mechanisch produziertes Digitalisat** handelt.
 
