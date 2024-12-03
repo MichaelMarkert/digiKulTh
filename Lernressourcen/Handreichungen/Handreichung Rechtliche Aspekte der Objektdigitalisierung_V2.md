@@ -112,8 +112,6 @@ Fragen zum Thema Urheberrecht werden zentral, sobald es zur "Vervielfältigung" 
 
 - [ ] Wenn ein urheberrechtlicher Schutz besteht, liegt eine Lizenz für die Nutzung vor (vgl. Kap. 1.4, 1.5)?
 
-**Weitere relevante Rechtsbereiche**
-
 **Rechte am eigenen Bild**
 
 - [ ] Sind auf einem digitalisierten Fotonegativ oder Abzug Personen identifizierbar (vgl. Kap. 2)?
