@@ -1,4 +1,4 @@
 Hier findet sich das Lehrmaterial für das Praxisseminar "Vom Ding zum Datensatz".
 
-Tipps:
+Tipps:<br>
 Marcdown-TOC-Generator: https://bitdowntoc.derlin.ch/
