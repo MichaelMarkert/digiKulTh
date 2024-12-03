@@ -7,7 +7,7 @@ Michael Markert
 - [Urheberrechtliche Aspekte](#urheberrechtliche-aspekte)
    * [Was ist ein Werk?](#was-ist-ein-werk)
    * [Welche Rechte haben Urheber:innen?](#welche-rechte-haben-urheberinnen)
-   * [Rechte an einem Digitalisat](#recht-an-einem-digitalisat)
+   * [Rechte an einem Digitalisat](#rechte-an-einem-digitalisat)
    * [Rechteübertragung und Lizenzformen](#rechteübertragung-und-lizenzformen)
    * [Urheberrecht in Arbeitsverhältnissen, Praktika u. ä.](#urheberrecht-in-arbeitsverhältnissen-praktika-u-ä)
    * [Relevante Schranken des Urheberrechts](#relevante-schranken-des-urheberrechts)
