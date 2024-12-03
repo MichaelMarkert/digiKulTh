@@ -13,8 +13,8 @@ Anne Hiltscher & Michael Markert (Bearb.)
          - [Weitere Ausstattung](#weitere-ausstattung)
          - [Essen und Trinken](#essen-und-trinken)
          - [Hautpflege](#hautpflege)
-   * [Organisatorische Schutzmaßnahmen](#organisatorische-schutzmaßnahmen)
-   * [Technische Schutzmaßnahmen](#technische-schutzmaßnahmen)
+     + [Organisatorische Schutzmaßnahmen](#organisatorische-schutzmaßnahmen)
+     + [Technische Schutzmaßnahmen](#technische-schutzmaßnahmen)
 - [Checkliste Gefahrstoffe und Arbeitsschutz](#checkliste-gefahrstoffe-und-arbeitsschutz)
 - [Verwendete und weiterführende Literatur](#verwendete-und-weiterführende-literatur)
 
@@ -81,11 +81,11 @@ Essen und Trinken dürfen nicht am direkten Tätigkeitsort stehen oder eingenomm
 
 Vor und nach der Arbeit sowie beim Verlassen des Tätigkeitsorts müssen die Hände gründlich mit Seife gereinigt und anschließend getrocknet werden. Bei häufig nötigem Händewaschen oder häufigem Tragen von Nitrilhandschuhen sollten die Hände am Ende des Arbeitstages mit Hautcreme gepflegt werden. Evtl. existiert ein Hautschutzplan und Handcreme wird vom Arbeitgeber bereitgestellt.
 
-### Organisatorische Schutzmaßnahmen
+#### Organisatorische Schutzmaßnahmen
 
 Alle Wege und Abläufe von Mitarbeitenden und belasteten Objekten in die oder aus den Sammlungsräumlichkeiten müssen geprüft und ggf. neu geregelt werden. Hierzu zählen etwa Zugangsbeschränkungen für alle Räumlichkeiten, in denen Objekte gelagert und ausgestellt werden oder worin mit ihnen gearbeitet wird, sowie der Objekttransport (Staubschutz), wenn andere Räume durchquert werden.
 
-### Technische Schutzmaßnahmen
+#### Technische Schutzmaßnahmen
 
 Oft handelt es sich um Infrastrukturmaßnahmen, die von der (Abteilungs-)Leitung verantwortet werden und hier der Vollständigkeit halber aufgeführt werden. So sollten Waschräume in der Nähe der Arbeitsräume zur Verfügung stehen, je nach Art der Tätigkeit auch ausgestattet mit Duschen. Gegen belastete Stäube helfen spezielle Staubsauger mit HEPA-Filtern, beim Arbeiten an Objekten (Reinigung, Restaurierung) schützt man sich vor Stäuben, Dämpfen oder Gasen mit Absauganlagen wie einer sogenannten reinen Werkbank, wo mittels Unterdruck schädliche Substanzen von den Nutzer:innen wegbewegt werden. Luftreiniger und Anlagen der Raumlufttechnik (RLT) sowie ein angepasster Reinigungsturnus können Schadstoffe in der Luft unter Umständen dauerhaft reduzieren. Dabei sollten vor allem Reinigungsarbeiten mit Flüssigkeiten keinesfalls ohne vorherige Freigabe und Unterweisung durch Expert:innen vorgenommen werden. 
 
