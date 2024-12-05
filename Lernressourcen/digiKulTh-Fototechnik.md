@@ -13,7 +13,7 @@
   - SD Karte 64GB SanDisk Extreme Pro. 
     Diese wird nur für Metadaten und Kameraeinstellungen verwendet. Fotos werden direkt auf dem Computer / Externe SSD gespeichert.
 - Beleuchtung und Hintergrund
-  - 2x Walimex pro VC-500 Excellence Studioblitzleuchte
+  - 2x Walimex pro VC-500 Excellence Studioblitzleuchten 
   - 2x Softboxen Walimex Pro 60x90
   - 2x Stativ für Blitze
   - Kaiser Funksender und -empfänger
