@@ -16,6 +16,8 @@
   - 2x Walimex pro VC-500 Excellence Studioblitzleuchte
   - 2x Softboxen Walimex Pro 60x90
   - 2x Stativ für Blitze
+  - Kaiser Funksender und -empfänger
+    Der Sender wird auf der Kamera montiert und erlaubt es, mehrere Arbeitsplätze in einem Raum zu betreiben, was beim normalen Master-Slave-Betrieb nicht möglich wäre, weil dann alle Slaves jedes Mal mit auslösen
   - Hintergrundsystem von Calumet 
   - Hintergrundkarton Arctic White 1,35m von Calumet
 - Computer
@@ -26,9 +28,11 @@
   - Tetherkabel: Tethertools USB-C
   - USB-C Hub
 - Sonstiges
-  - Calibrite Color Checker
+  - Calibrite Color Checker Classic Mini
   - Transportwagen RockNRoller R12 Stealth
   - Transporttasche für Stative von Gravity BGMS 6 B
+  - Calumet Fotokoffer mit Würfelschaum
+  - Rollei Sensor-Reinigungskit
 
 ## Software
 Die Auswahl der Software hatte als Kriterium, dass unbefristete Einzelplatzlizenzen existieren, sodass der Workflow langfristig durch wechselndes Personal genutzt werden kann. 
