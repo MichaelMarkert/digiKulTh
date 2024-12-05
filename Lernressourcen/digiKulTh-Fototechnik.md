@@ -1,0 +1,36 @@
+# Materialliste Objektfotografie@digiKulTh 
+## Hardware (mehrere identische Setups)
+  
+- Kamerausstattung
+  - Body Sony A7RV
+    Vollformat-Body mit hoher Auflösung (61 Megapixel), entsprechend flexibel und nachhaltig
+  - Objektiv Sony 90/2.8 Macro G OSS
+    Ein Makroobjektiv erlaubt nicht nur das Fotografieren sehr kleiner Objekte wie Münzen, sondern bildet auch sehr scharf und kontrastreich ab.
+  - Objektiv Sony 24-70/2.8 GMII
+    Ein flexibles Objektiv für größere Objekte bei begrenzem Platz für einen Aufbau, Architekturfotografie, ...
+  - Kamerastativ: Manfrotto 055XPRO3 + MHXPRO-BHQ2 XPRO Kugelkopf mit 200PL
+    Hat eine um 90° kippbare Mittelsäule, was das Fotografieren senkrecht von oben erlaubt (etwa bei Grafikblättern).
+  - SD Karte 64GB SanDisk Extreme Pro. 
+    Diese wird nur für Metadaten und Kameraeinstellungen verwendet. Fotos werden direkt auf dem Computer / Externe SSD gespeichert.
+- Beleuchtung und Hintergrund
+  - 2x Walimex pro VC-500 Excellence Studioblitzleuchte
+  - 2x Softboxen Walimex Pro 60x90
+  - 2x Stativ für Blitze
+  - Hintergrundsystem von Calumet 
+  - Hintergrundkarton Arctic White 1,35m von Calumet
+- Computer
+  - Macbook Air 15" (M3, 16 GB, 512 GB SSD)
+    ARM-Macbooks sind sehr leistungsfähig und für die geplanten Anwendungen auf viele Jahre ausreichend. Die Farbwiedergabe der Displays ist herausragend, was für Fotoanwendungen besonders wichtig ist.
+  - Laptopstativ: K&M 12185
+  - Externe Festplatte: Samsung T7 Shield 4TB
+  - Tetherkabel: Tethertools USB-C
+  - USB-C Hub
+- Sonstiges
+  - Calibrite Color Checker
+  - Transportwagen RockNRoller R12 Stealth
+  - Transporttasche für Stative von Gravity BGMS 6 B
+
+## Software
+Die Auswahl der Software hatte als Kriterium, dass unbefristete Einzelplatzlizenzen existieren, sodass der Workflow langfristig durch wechselndes Personal genutzt werden kann. 
+- Tethering und digitale Entwicklung: Capture One, https://www.captureone.com/de
+- Bildbearbeitung: Affinity Photo, https://affinity.serif.com/de/photo/
