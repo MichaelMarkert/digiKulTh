@@ -3,7 +3,7 @@
   
 - Kamerausstattung
   - Body Sony A7RV<br>
-    Vollformat-Body mit hoher Auflösung (61 Megapixel), entsprechend flexibel und nachhaltig
+    Vollformat-Body mit hoher Auflösung (61 Megapixel), entsprechend flexibel und lange ausreichend leistungsfähig auch für anspruchsvolle Anwendungen.
   - Objektiv Sony 90/2.8 Macro G OSS<br>
     Ein Makroobjektiv erlaubt nicht nur das Fotografieren sehr kleiner Objekte wie Münzen, sondern bildet auch sehr scharf und kontrastreich ab.
   - Objektiv Sony 24-70/2.8 GMII<br>
