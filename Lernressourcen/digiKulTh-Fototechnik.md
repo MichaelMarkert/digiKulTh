@@ -9,7 +9,7 @@
   - Objektiv Sony 24-70/2.8 GMII<br>
     Ein flexibles Objektiv für größere Objekte bei begrenzem Platz für einen Aufbau, Architekturfotografie, ...
   - Kamerastativ: Manfrotto 055XPRO3 + MHXPRO-BHQ2 XPRO Kugelkopf mit 200PL<br>
-    Das Stativ eine um 90° kippbare Mittelsäule, was das Fotografieren senkrecht von oben erlaubt (etwa bei Grafikblättern).
+    Das Stativ verfügt über eine um 90° kippbare Mittelsäule, was ohne größeren Umbau Fotografieren senkrecht von oben erlaubt (etwa von Grafikblättern).
   - SD Karte 64GB SanDisk Extreme Pro<br>
     Diese wird nur für Metadaten und Kameraeinstellungen verwendet. Fotos werden direkt auf dem Computer / Externe SSD gespeichert.
 - Beleuchtung und Hintergrund
