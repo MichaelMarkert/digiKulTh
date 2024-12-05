@@ -8,7 +8,7 @@
     Ein Makroobjektiv erlaubt nicht nur das Fotografieren sehr kleiner Objekte wie Münzen, sondern bildet auch sehr scharf und kontrastreich ab.
 - Objektiv **Sony 24-70/2.8 GMII**<br>
     Ein flexibles Objektiv für größere Objekte bei begrenzem Platz für einen Aufbau, Architekturfotografie, ...
-- Kamerastativ: **Manfrotto 055XPRO3 + MHXPRO-BHQ2 XPRO Kugelkopf mit 200PL**<br>
+- Kamerastativ **Manfrotto 055XPRO3 + MHXPRO-BHQ2 XPRO Kugelkopf mit 200PL**<br>
     Das Stativ verfügt über eine um 90° kippbare Mittelsäule, was ohne größeren Umbau Fotografieren senkrecht von oben erlaubt (etwa von Grafikblättern).
 - SD Karte **64GB SanDisk Extreme Pro**<br>
     Diese wird nur für Metadaten und Kameraeinstellungen verwendet. Fotos werden direkt auf dem Computer / Externe SSD gespeichert.
@@ -23,9 +23,9 @@
 ### Computer
 - **Macbook Air 15"** (M3, 16 GB, 512 GB SSD)<br>
     ARM-Macbooks sind sehr leistungsfähig und für die geplanten Anwendungen auf viele Jahre ausreichend. Die Farbwiedergabe der Displays ist herausragend, was für Fotoanwendungen besonders wichtig ist.
-- Laptopstativ: **K&M 12185**
-- Externe Festplatte: **Samsung T7 Shield 4TB**
-- Tetherkabel: **Tethertools USB-C**
+- Laptopstativ **K&M 12185**
+- Externe SSD **Samsung T7 Shield 4TB**
+- Tetherkabel **Tethertools USB-C**
 - USB-C Hub
 ### Sonstiges
 - **Calibrite Color Checker Classic Mini**
@@ -36,5 +36,5 @@
 
 ## Software
 Die Auswahl der Software hatte als Kriterium, dass unbefristete Einzelplatzlizenzen existieren, sodass der Workflow langfristig durch wechselndes Personal genutzt werden kann. 
-- Tethering und digitale Entwicklung: **Capture One**, https://www.captureone.com/de
-- Bildbearbeitung: **Affinity Photo**, https://affinity.serif.com/de/photo/
+- **Capture One** für Tethering und digitale Entwicklung, https://www.captureone.com/de
+- **Affinity Photo** für Bildbearbeitung, https://affinity.serif.com/de/photo/
